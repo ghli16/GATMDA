@@ -1,0 +1,210 @@
+Inferior Wall Myocardial Infarction
+Rhinitis, Allergic
+Alzheimer Disease
+Aortic Valve Stenosis
+Arrhythmias, Cardiac
+Asthma
+Atherosclerosis
+Autistic Disorder
+Urinary Bladder Neoplasms
+Breast Neoplasms
+Adrenocortical Carcinoma
+Esophageal Neoplasms
+Carcinoma, Hepatocellular
+Carcinoma, Non-Small-Cell Lung
+Carcinoma, Renal Cell
+Cardiomyopathy, Hypertrophic
+Cardiovascular Diseases
+Carotid Artery Diseases
+Child Development Disorders, Pervasive
+Cholangiocarcinoma
+Choriocarcinoma
+Hepatitis B, Chronic
+Colonic Neoplasms
+Colorectal Neoplasms
+Coronary Artery Disease
+Crohn Disease
+Diabetes Mellitus
+Diabetes Mellitus, Type 1
+Diabetes Mellitus, Type 2
+Pregnancy, Ectopic
+Endometriosis
+Eosinophilic Esophagitis
+Familial Mediterranean Fever
+Non-alcoholic Fatty Liver Disease
+Stomach Neoplasms
+Glioblastoma
+Glioma
+Glomerulonephritis
+Graves Disease
+Heart Diseases
+Hepatitis C
+HIV Infections
+Hypertension
+Hypertrophy
+Hypoxia-Ischemia, Brain
+Graft Rejection
+Leukemia
+Leukemia, Lymphoid
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Myeloid, Acute
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Leukemia, Promyelocytic, Acute
+Leukemia-Lymphoma, Adult T-Cell
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Pulmonary Fibrosis
+Lung Neoplasms
+Lupus Vulgaris
+Lymphoma
+Lymphoma, B-Cell
+Hodgkin Disease
+Lymphoma, Large-Cell, Anaplastic
+Melanoma
+Multiple Myeloma
+Multiple Sclerosis
+Myasthenia Gravis
+Myelodysplastic Syndromes
+Myocardial Infarction
+Nasopharyngeal Neoplasms
+Neoplasms
+Neurodegenerative Diseases
+Obesity
+Ovarian Neoplasms
+Pancreatic Neoplasms
+Parkinson Disease
+Pituitary Neoplasms
+Polycystic Ovary Syndrome
+Polycythemia Vera
+Pre-Eclampsia
+Liver Cirrhosis, Biliary
+Prostatic Neoplasms
+Retinal Degeneration
+Retinoblastoma
+Arthritis, Rheumatoid
+Schizophrenia
+Sepsis
+Sjogren's Syndrome
+Spinal Cord Injuries
+Stroke
+Lupus Erythematosus, Systemic
+Thyroid Neoplasms
+Acute Kidney Injury
+Carcinoma, Pancreatic Ductal
+Adrenal Cortex Neoplasms
+Macular Degeneration
+Amyotrophic Lateral Sclerosis
+Atrial Fibrillation
+Behcet Syndrome
+Biliary Tract Neoplasms
+Brain Diseases
+Triple Negative Breast Neoplasms
+Uterine Cervical Neoplasms
+Small Cell Lung Carcinoma
+Rectal Neoplasms
+Cardiomyopathy, Dilated
+Hepatitis C, Chronic
+Pulmonary Disease, Chronic Obstructive
+Colitis, Ulcerative
+Diabetic Cardiomyopathies
+Diabetic Nephropathies
+Endometrial Neoplasms
+Gastrointestinal Neoplasms
+Glaucoma
+Graft vs Host Disease
+Head and Neck Neoplasms
+Hematologic Neoplasms
+Hepatitis B
+Hepatoblastoma
+Huntington Disease
+Inflammation
+Lung Diseases, Interstitial
+Reperfusion Injury
+Kidney Diseases
+Kidney Neoplasms
+Liver Cirrhosis
+Liver Diseases
+Liver Neoplasms
+Lupus Nephritis
+Burkitt Lymphoma
+Lymphoma, Large B-Cell, Diffuse
+Lymphoma, Non-Hodgkin
+Lymphoma, T-Cell
+Waldenstrom Macroglobulinemia
+Muscular Atrophy
+Muscular Dystrophies
+Muscular Dystrophy, Duchenne
+Tuberculosis
+Myocardial Reperfusion Injury
+Myotonic Dystrophy
+Nephrotic Syndrome
+Osteoarthritis
+Osteosarcoma
+Psoriasis
+Hypertension, Pulmonary
+Scleroderma, Systemic
+Testicular Neoplasms
+Tuberculosis, Pulmonary
+Aneurysm
+Dermatitis, Atopic
+Autoimmune Diseases
+Carcinoma, Embryonal
+Cardiomegaly
+Brain Ischemia
+Diabetic Retinopathy
+Fatty Liver
+Fatty Liver, Alcoholic
+Ischemia
+Mucocutaneous Lymph Node Syndrome
+Leukemia, B-Cell
+Medulloblastoma
+Lichen Planus, Oral
+Prion Diseases
+Rhabdomyosarcoma
+Arbovirus Infections
+Ependymoma
+Idiopathic Pulmonary Fibrosis
+Solitary Fibrous Tumor, Pleural
+Carcinoma, Endometrioid
+Chondrosarcoma
+Heart Failure
+Nervous System Diseases
+Neuroblastoma
+Sarcoma
+Carcinoma, Squamous Cell
+Sarcoma, Kaposi
+Vitiligo
+Lymphoma, Mantle-Cell
+Acute Lung Injury
+Colitis
+Immune System Diseases
+Infection
+Intervertebral Disc Degeneration
+Laryngeal Neoplasms
+Cicatrix, Hypertrophic
+Adenoviridae Infections
+Astrocytoma
+Carcinoma, Adenoid Cystic
+Carcinoma, Skin Appendage
+Retinal Neovascularization
+Inflammatory Bowel Diseases
+Barrett Esophagus
+Carcinoma, Basal Cell
+Thyroid Carcinoma, Anaplastic
+Meningioma
+Muscular Dystrophy, Facioscapulohumeral
+Periodontal Diseases
+Periodontitis
+Salivary Gland Neoplasms
+Lichen Planus
+Burns
+Cardiomyopathy, Alcoholic
+Rhinitis, Allergic, Perennial
+Endocrine Gland Neoplasms
+Endotoxemia
+Fibromatosis, Aggressive
+Mycosis Fungoides
+Prolactinoma
+Retinitis Pigmentosa
+Rhinitis, Vasomotor
